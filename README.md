@@ -1,4 +1,4 @@
 # LogSnag - iOS
 
 ## Installation 
-To install this package, import 'https://github.com/nlabarbera/LogSnag' in SPM.
+To install this package, import 'https://github.com/nlabarbera/LogSnag' in Swift Package Manager.
